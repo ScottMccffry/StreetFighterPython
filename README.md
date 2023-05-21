@@ -1,2 +1,2 @@
 # StreetFighterPython
-A street Fighter style game engine coed in python with pygame
+A street Fighter style game engine coded in python with pygame
